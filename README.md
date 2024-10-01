@@ -1,5 +1,16 @@
-# Hacktoberfest-2024
-# Contributing to DSA Solutions
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2># Hacktoberfest-2024
+# Contributing to DSA Solutions</h2>
+
+<img src="https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png" alt="W3Schools.com" style="width:919px;height:450px;">
+
+</body>
+</html>
+
+
 
 Thank you for your interest in contributing to this project! We’re thrilled to have you participate. Below are some guidelines to help you get started.
 
